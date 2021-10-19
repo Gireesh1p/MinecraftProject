@@ -1,0 +1,22 @@
+body{
+    background-image: url(minecraft.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+div{
+    background-color: darkgrey;
+    opacity: 0.8;
+    margin-top: 50px;
+}
+label{
+    font-size: 25px;
+    color: white;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 40px;
+    color: white;
+}
